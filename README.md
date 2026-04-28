@@ -10,3 +10,5 @@ To bridge the gap between web development and cybersecurity education by providi
 
 ## Why this project?
 Developed as part of a research project into modern web security standards.
+## Project Demonstration
+![Plugin in Action](IMG_20260428_220818_776.jpg)
